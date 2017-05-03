@@ -1,25 +1,25 @@
-# ReduxSimpleStarter
+# Weather-forecast
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Use redux to fetech data and use sparkline to draw the curve, show city which is searched by using google api.
+
+
+![alt text](https://github.com/g01198628y/Weather-forecast/blob/master/screenshot.gif)
+
+1.Redux
+2.axios
+3.Sparkline
+4.google map API
+5.lodash
+
+
+
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/g01198628y/Weather-forecast.git
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+...
